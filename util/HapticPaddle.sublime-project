@@ -90,6 +90,7 @@
 		"ecc_common_flags":
 		[
 			"-I$project_base_path/include",
+			"-I/Git/MEL/include"
 		],
 		"ecc_flags_sources":
 		[
